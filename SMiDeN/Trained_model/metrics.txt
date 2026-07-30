@@ -1,0 +1,13 @@
+Checkpoint                   Epoch  BestEpoch      BestLoss     
+-----------------------------------------------------------------
+SMiDeN_epoch1.pt               0          1        2.073032       
+SMiDeN_epoch2.pt               1          2        1.557540       
+SMiDeN_epoch3.pt               2          3        1.532826       
+SMiDeN_epoch7.pt               6          7        1.442448        
+SMiDeN_epoch12.pt             11         12        1.362385        
+SMiDeN_epoch13.pt             12         13        1.270974        
+SMiDeN_epoch14.pt             13         14        1.218154        
+SMiDeN_epoch16.pt             15         16        1.205849        
+SMiDeN_epoch17.pt             16         17        1.152922        
+SMiDeN_epoch18.pt             17         18        1.130690        
+	
